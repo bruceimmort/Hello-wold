@@ -1,2 +1,2 @@
 # Hello-wold
-This is my first repository on GitHub. It's somehow boring
+This is my first repository on GitHub.
